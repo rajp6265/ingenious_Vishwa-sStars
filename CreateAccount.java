@@ -9,13 +9,6 @@ package biz.analytics;
  *
  * @author Ridham Dave
  */
-public class BizAnalytics {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class CreateAccount {
     
 }
